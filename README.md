@@ -8,7 +8,7 @@ This project is a customizable and responsive grocery store website template cre
 - Customizable Layout: Easily adaptable design to fit different brands and store types.
 - Fast Performance: Simple and lightweight code for faster page load times.
 
-## ***Demo***
+## ***How to Run***
 1. Clone the repository:
 ```bash
 git clone https://github.com/armadhanihiro/grocery-template.git
